@@ -2,23 +2,20 @@
 
 
 ## Project setup
+
+### Install dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Start project
 ```
-npm run serve
+npm start
 ```
 
-### Compiles and minifies for production
+### Build project
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 
